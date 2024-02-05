@@ -1,0 +1,1 @@
+window.alert("verefy you're human, press OK")
